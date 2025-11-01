@@ -35,7 +35,7 @@ Refinamento do modelo lógico aprimorando o funcionamento utilizando os seguinte
 
 ## 💡Solução
 
-<img align="center" src="https://github.com/" width=""/> 
+<img align="center" src="https://github.com/rodrigo-sza-almeida/DIO_sql_database_specialist_e-commerce_esquema/blob/main/e_commerce.png" width=""/> 
 
 ## 🧑‍💻 Tecnologia utilizada 
 
