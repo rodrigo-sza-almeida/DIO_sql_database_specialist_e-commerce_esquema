@@ -1,4 +1,4 @@
-# Refinando um modelo lógico de banco de dados de um site de vendas E-commerce
+# Refinando um modelo lógico de banco de dados voltado a um site de E-commerce
 
 Primeiro desafio do projeto da plataforma [DIO](https://www.dio.me/) curso "SQL Database Specialist".
 
